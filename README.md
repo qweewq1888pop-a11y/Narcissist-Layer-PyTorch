@@ -2,7 +2,7 @@
 Narcissist-Layer-PyTorch
 Thanks To cifar-10 The model was benchmarked using the CIFAR-10 dataset collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
 the result:
-    PS C:\Yeni klasör (16)> & C:/Users/aydin/AppData/Local/Programs/Python/Python311/python.exe "c:/Yeni klasör (16)/Aydintraib.py"
+    PS C:\Yeni klasör (16)> & C:/Users/aydin/AppData/Local/Programs/Python/Python311/python.exe "c:/Yeni klasör (16)/Efeaydin2026.py"
 🔥 Çalışma Ortamı: cuda
 📦 Veriler indiriliyor...
 Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to ./data\cifar-10-python.tar.gz

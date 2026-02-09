@@ -1,6 +1,6 @@
 # Narcissist-Layer-PyTorch
 Narcissist-Layer-PyTorch
-ThanksToKrizhevsky The model was benchmarked using the CIFAR-10 dataset collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
+Thanks To cifar-10 The model was benchmarked using the CIFAR-10 dataset collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
 the result:
     PS C:\Yeni klasör (16)> & C:/Users/aydin/AppData/Local/Programs/Python/Python311/python.exe "c:/Yeni klasör (16)/Aydintraib.py"
 🔥 Çalışma Ortamı: cuda

@@ -1,4 +1,4 @@
-# Narcissist-Layer-PyTorch
+# Narcissist-Layer-Deep-Learning
 Narcissist-Layer-PyTorch
 Thanks To cifar-10 The model was benchmarked using the CIFAR-10 dataset collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
 the result:

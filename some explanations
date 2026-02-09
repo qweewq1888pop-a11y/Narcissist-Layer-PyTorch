@@ -1,0 +1,1 @@
+A custom PyTorch layer with a manually derived backward pass, focusing on statistical deviation to amplify important features.
